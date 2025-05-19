@@ -30,7 +30,7 @@
             "name": "Smartphone",
             "description": "Latest model",
             "price": 699.99,
-            "is_tradable": true,
+            "is_tradable": True,
             "rarity": "unique",
             "quantity": 5,
             "category": 1
